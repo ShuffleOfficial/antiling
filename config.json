@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6285823360959@s.whatsapp.net"],
+    "ownerName": "Mr.Blaxe",
+    "instagram" : "https://youtube.com/@-_IMFINE",
+    "gcwa" : "https://youtube.com/@-_IMFINE",
+    "botName": "Auto Pilot",
+    "footer": "Auto Pilot",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Gambar.jpg",
+    "BotKey": "pakek apikey lu dek",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./a.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}

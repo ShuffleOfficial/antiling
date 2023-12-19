@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6285813708397@s.whatsapp.net","6285813708397@s.whatsapp.net"],
+    "ownerName": "DevBotz",
+    "instagram" : "https://youtube.com/@FallXD425",
+    "gcwa" : "https://youtube.com/@FallXD425",
+    "botName": "KyurzyBotzV2",
+    "footer": "KyurzyBotzV2",
+    "sessionName": "FallZx",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "pakek apikey lu dek",
+    "OpenAIKey": "pakek apikey lu dek",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
